@@ -1,1 +1,5 @@
+com\bharath\flightreservation\controllers\ReservationcontrollerTest.class
+com\bharath\flightreservation\controllers\ReservationRestcontrollerTest.class
+com\bharath\flightreservation\repos\FlightRepositoryTest.class
+com\bharath\flightreservation\services\ReservationServicemplTest.class
 com\bharath\flightreservation\FlightreservationApplicationTests.class
