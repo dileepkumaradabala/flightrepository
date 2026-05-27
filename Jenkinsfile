@@ -10,7 +10,6 @@ pipeline {
     }
 
     options {
-        timestamps()                       // add timestamps to console log
         buildDiscarder(logRotator(numToKeepStr: '10'))  // keep only the last 10 builds
     }
 
